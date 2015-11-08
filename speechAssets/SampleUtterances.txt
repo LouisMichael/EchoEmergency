@@ -1,7 +1,4 @@
-HelpIntent help
-HelpIntent help me
 HelpIntent what can I ask you
-HelpIntent get help
 HelpIntent what commands can I ask
 HelpIntent what commands can I say
 HelpIntent what can I do
@@ -12,6 +9,41 @@ HelpIntent what do you do
 HelpIntent how do I use you
 HelpIntent how can I use you
 HelpIntent what can you tell me
+
+EmergencyIntent emergency
+EmergencyIntent i've fallen and can't get up
+EmergencyIntent i have fallen and can't get up
+EmergencyIntent i fell and can't get up
+EmergencyIntent i have fallen
+EmergencyIntent i've fallen
+EmergencyIntent i fell
+EmergencyIntent fuck
+EmergencyIntent shit
+EmergencyIntent oh god
+EmergencyIntent help
+EmergencyIntent help me
+EmergencyIntent get help
+
+PoliceIntent call the police
+PoliceIntent police
+PoliceIntent need the police
+PoliceIntent get the police
+PoliceIntent call an ambulance
+PoliceIntent call ambulance
+PoliceIntent need ambulance
+PoliceIntent get ambulance
+PoliceIntent ambulance
+PoliceIntent call the fire department
+PoliceIntent fire department
+PoliceIntent get the fire department
+PoliceIntent call 911
+PoliceIntent call nine one one
+PoliceIntent tell police
+PoliceIntent tell fire department
+PoliceIntent tell ambulance
+PoliceIntent tell hospital
+PoliceIntent call ER
+PoliceIntent call emergency room
 
 SetRecipeIntent do you have a recipe for {spaghetti|Recipe}
 SetRecipeIntent do you have a recipe for {caramel|Recipe}

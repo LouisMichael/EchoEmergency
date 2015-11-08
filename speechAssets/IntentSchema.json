@@ -5,6 +5,12 @@
       "slots": []
     },
     {
+      "intent": "EmergencyIntent"
+    },
+    {
+      "intent": "PoliceIntent"
+    },
+    {
       "intent": "SetRecipeIntent",
       "slots": [
         {
