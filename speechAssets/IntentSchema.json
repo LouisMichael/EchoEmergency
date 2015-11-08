@@ -8,7 +8,13 @@
       "intent": "EmergencyIntent"
     },
     {
-      "intent": "PoliceIntent"
+      "intent": "PoliceIntent",
+      "slots": [
+        {
+          "name": "Problem",
+          "type": "PROBLEMS"
+        }
+      ]
     },
     {
       "intent": "SetRecipeIntent",
